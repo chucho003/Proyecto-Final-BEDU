@@ -1,5 +1,7 @@
 # Proyecto-Final-BEDU
-Proyecto Final del Programa de Data Science impartido por BEDU
+Proyecto Final del Programa de Data Science impartido por Becas Santander-BEDU. El proyecto presenta el análisis de datos públicossobre casos de personas desaparecidas en México. 
+
+Link al dashboard: https://datastudio.google.com/s/lB3rMIWOE3I
 
 ## Equipo 7
 
